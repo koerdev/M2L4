@@ -2,10 +2,6 @@ body {
     padding: 20px;
 }
 
-.title {
-    text-align: center;
-}
-
 .container {
     max-width: 400px;
     margin: 0 auto;
